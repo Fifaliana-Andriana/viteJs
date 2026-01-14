@@ -18,8 +18,11 @@ document.querySelector("#app").innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
-        <p class="read-the-docs">
-      io izy io fa niova
+    <p class="read-the-docs">
+      Io izy io fa niova
+    </p>
+    <p class="read-the-docs">
+      Dia mbola niova ihany
     </p>
   </div>
 `;
