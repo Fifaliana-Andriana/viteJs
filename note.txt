@@ -18,3 +18,8 @@ VITE.JS
     Installation dependence dans terminal: 
               npm install nom_package(ex: bootstrap, tailwind, ...)
         ou    npm i nom_package(ex: bootstrap, tailwind, ...)
+
+    Deploiment : 
+        -Vercel( côté frontEnd)
+        -Netlify
+        -Github
