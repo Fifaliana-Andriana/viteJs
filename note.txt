@@ -1,0 +1,20 @@
+VITE.JS
+    ====>Outils de developpement:
+            -plus rapide
+            -Simple à configurer
+            -Ideal pour: VanillaJs, React, Vue, ...
+
+
+    Prerequis: Node.js, npm: package d'Installation en Js
+            en linux: -apt install nodejs
+                      -apt install npm
+
+    Installation:     
+            -npm create vite@latest
+            -nom_projet     
+            -framework: VanillaJs
+            -Variant JS  
+
+    Installation dependence dans terminal: 
+              npm install nom_package(ex: bootstrap, tailwind, ...)
+        ou    npm i nom_package(ex: bootstrap, tailwind, ...)
